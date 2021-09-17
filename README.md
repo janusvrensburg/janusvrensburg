@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://github.com/janusvrensburg-ui/janusvrensburg/blob/d2ed456a12a4574572f0e89ac13183cfc8ebfa51/README.md
+[Repo](https://github.com/janusvrensburg-ui/janusvrensburg/blob/d2ed456a12a4574572f0e89ac13183cfc8ebfa51/README.md)
 
 
 <!--
